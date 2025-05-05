@@ -1,0 +1,76 @@
+.support, .Contactus {
+  margin-bottom: 10px;
+}
+.support{
+    color: #0077B6;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border: 1px solid #0077B6;
+    padding: 8%;
+    border-radius: 20px;
+}
+.Contactus {
+    color: #0077B6;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border: 1px solid #0077B6;
+    padding: 8%;
+    border-radius: 20px;
+}
+.helpcenter-link {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    gap: 10px;
+    text-decoration: none;
+    color: #808080;
+  }
+  
+.helpcenter-link span {
+    line-height: 1.2;
+}
+
+
+
+.input input {
+    width: 100%;
+    height: 39px;
+    border-radius: 5px;
+    border-color: #0077B6;
+    font-family: "Inter", sans-serif;
+    outline: none;
+}
+.textarea textarea{
+    width: 100%;
+    height: 119px;
+    border-radius: 5px;
+    border-color: #0077B6;
+    font-family: "Inter", sans-serif;
+    outline: none;
+}
+.textarea p {
+    text-align: left;
+}
+.input p {
+    text-align: left;
+}
+.button button{
+    border-color: #0077B6;
+    width: 50%;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #0077B6;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    text-decoration: none;
+
+    margin: 10px auto 0 auto;
+}
+
